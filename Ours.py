@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 
-
+QQ
 
 ## Validation
 Pyr = pd.DataFrame(np.linspace(1996,2021,26)).T
